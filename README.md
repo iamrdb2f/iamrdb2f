@@ -7,7 +7,7 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Lead+developer;Test+Automation+specialist;QA+Engineering+for+life">
-	<h3 align="center">I work as a QA Engineering Specialist. In daily life I am a graduated Lead Software Developer, hacking digital solutions. Some would say that I am software engineering and test automation enthousiastic. Because, I do programming "dress rehearsal" every single day. Oh yeah!</h3>
+	<h3 align="center">I work as a QA Engineering Specialist. In daily life I am a graduated Lead Software Developer, hacking digital solutions. Some would say that I am a software engineering and test automation enthousiastic. Because, I do programming "dress rehearsal" every single day. Oh yeah!</h3>
 	<h3 align="center">I'd say I am rather an entrepreneur, hacking solutions and building companies.</h3>
 </p>
 
