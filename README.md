@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-    <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndyaXo0ZHdxbm8xNDRwanVxdDIzcjd2MG8wc3o3Z3U3bmxtMHduMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Coding GIF">
+    <img align="center" src="./la-fed.org-couverture-facebook.png" alt="La Fed Couverture" width="100%" />
 </p>
 
 <h1 align="center">👋 Bonjour, je suis Roland Guissony</h1>
