@@ -3,8 +3,11 @@
     <img align="center" src="./la-fed.org-couverture-facebook.png" alt="La Fed Couverture" width="100%" />
 </p>
 
-<h1 align="center">👋 Bonjour, je suis Roland Guissony</h1>
-<h3 align="center">QA Automation Specialist | Software Engineer | Entrepreneur</h3>
+<h1 align="center">✋🏾 Bonjour, Je m'appelle Roland ! </h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=0A66C2&center=true&width=600&lines=I+am+a+QA+Automation+Specialist;I+am+a+Software+Engineer;I+am+an+Entrepreneur" alt="Typing Animation">
+</p>
 
 ---
 
