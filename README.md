@@ -46,7 +46,7 @@
 <p>
 📫 Vous pouvez me contacter pour des missions freelance, collaborations ou conseils en assurance qualité logicielle :
 <ul>
-  <li>Email : <a href="mailto:dev@rolandguissony.com">dev@rolandguissony.com</a></li>
+  <li>Email : <a href="mailto:roland@la-fed.org">roland@la-fed.org</a></li>
   <li>Freelance sur Malt : <a href="https://www.malt.fr/profile/rolandguissony1">Mon profil Malt</a></li>
 </ul>
 </p>
