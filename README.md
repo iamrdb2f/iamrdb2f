@@ -45,50 +45,42 @@ I’m open to **freelance, consulting, and full-time opportunities** in:
 ✅ **Test Automation** | ✅ **QA Strategy & Consulting** | ✅ **Software Engineering & Training**  
 
 📫 **Contact me:**  
-📧 **Email:** [roland@la-fed.org](mailto:roland@la-fed.org)  
+📧 **Email:** [📩 roland@la-fed.org](mailto:roland@la-fed.org)  
 
 🌍 **Freelance Profiles:**  
-<p align="left">
-    <a href="https://www.upwork.com/freelancers/~017651e3fba024b670?mp_source=share" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Upwork_Logo.svg/120px-Upwork_Logo.svg.png" alt="Upwork" width="120"/>
-    </a>
-    <a href="https://www.malt.fr/profile/rolandguissony1" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Malt-logo.svg/120px-Malt-logo.svg.png" alt="Malt" width="120"/>
-    </a>
-    <a href="https://www.peopleperhour.com/freelancer/roland-guissony-qa-automation-engineer-java-zyzwnamn" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/PeoplePerHour_Logo.png" alt="PeoplePerHour" width="120"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/rdb2f" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="120"/>
-    </a>
-</p>
-
+- 🟢 [**Upwork**](https://www.upwork.com/freelancers/~017651e3fba024b670?mp_source=share)  
+- 🔵 [**Malt**](https://www.malt.fr/profile/rolandguissony1)  
+- 🟠 [**PeoplePerHour**](https://www.peopleperhour.com/freelancer/roland-guissony-qa-automation-engineer-java-zyzwnamn)  
+- 🟩 [**HackerRank**](https://www.hackerrank.com/profile/rdb2f)  
 
 ---
 
 ## 🌎 Connect with Me
 
-<a href="https://linkedin.com/in/rdb2f/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://www.facebook.com/lafed.org" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+📡 **Follow me on social media:**  
+<a href="https://linkedin.com/in/rdb2f/" target="blank"> 🔹 **LinkedIn** </a>  
+<a href="https://www.facebook.com/lafed.org" target="blank"> 🔹 **Facebook** </a>  
 
 ---
 
 ## 🛠 Technologies & Tools
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-</p>
+🚀 **Development & Automation**  
+- ☕ **Java**  
+- ✅ **Selenium**  
+- 🏗 **Jenkins**  
+- 🖥 **Git & GitHub**  
+- 🐍 **Python**  
+
+📦 **Databases & Cloud**  
+- 🗄 **MySQL & PostgreSQL**  
+- 🛠 **Docker & Kubernetes**  
+
+📌 **Testing & DevOps**  
+- 🔍 **Jira & Xray**  
+- ⚙ **CI/CD Pipelines**  
+- 🍃 **Spring Boot**  
+- 🖥 **Linux (Ubuntu, Debian, etc.)**  
 
 ---
 
