@@ -48,18 +48,21 @@ I’m open to **freelance, consulting, and full-time opportunities** in:
 📧 **Email:** [roland@la-fed.org](mailto:roland@la-fed.org)  
 
 🌍 **Freelance Profiles:**  
-<a href="https://www.upwork.com/freelancers/~017651e3fba024b670?mp_source=share">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Upwork_Logo.svg/100px-Upwork_Logo.svg.png" alt="Upwork" width="120"/>
-</a>
-<a href="https://www.malt.fr/profile/rolandguissony1">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Malt-logo.svg/100px-Malt-logo.svg.png" alt="Malt" width="120"/>
-</a>
-<a href="https://www.peopleperhour.com/freelancer/roland-guissony-qa-automation-engineer-java-zyzwnamn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/PeoplePerHour_Logo.png" alt="PeoplePerHour" width="120"/>
-</a>
-<a href="https://www.hackerrank.com/profile/rdb2f">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="120"/>
-</a>
+<p align="left">
+    <a href="https://www.upwork.com/freelancers/~017651e3fba024b670?mp_source=share" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Upwork_Logo.svg/120px-Upwork_Logo.svg.png" alt="Upwork" width="120"/>
+    </a>
+    <a href="https://www.malt.fr/profile/rolandguissony1" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Malt-logo.svg/120px-Malt-logo.svg.png" alt="Malt" width="120"/>
+    </a>
+    <a href="https://www.peopleperhour.com/freelancer/roland-guissony-qa-automation-engineer-java-zyzwnamn" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/PeoplePerHour_Logo.png" alt="PeoplePerHour" width="120"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/rdb2f" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="120"/>
+    </a>
+</p>
+
 
 ---
 
