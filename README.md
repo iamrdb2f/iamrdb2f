@@ -45,7 +45,11 @@ I’m open to **freelance, consulting, and full-time opportunities** in:
 
 📫 **Contact me:**  
 - 📧 Email: [roland@la-fed.org](mailto:roland@la-fed.org)  
-- 🌍 **Freelance on Malt:** [My Malt Profile](https://www.malt.fr/profile/rolandguissony1)  
+- 🌍 **Freelance Profiles:**  
+  - **🔹 [Upwork](https://www.upwork.com/freelancers/~017651e3fba024b670?mp_source=share)**  
+  - **🔹 [Malt](https://www.malt.fr/profile/rolandguissony1)**  
+  - **🔹 [PeoplePerHour](https://www.peopleperhour.com/freelancer/roland-guissony-qa-automation-engineer-java-zyzwnamn)**  
+  - **🔹 [HackerRank](https://www.hackerrank.com/profile/rdb2f)**  
 
 ---
 
@@ -67,4 +71,18 @@ I’m open to **freelance, consulting, and full-time opportunities** in:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+</p>
+
+---
+
+## 💡 Quote to Live By
+
+<p align="center">
+    <em>"Excellence is a process, not an event."</em>
+</p>
