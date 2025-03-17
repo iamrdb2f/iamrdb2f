@@ -66,25 +66,25 @@ I’m open to **freelance, consulting, and full-time opportunities** in:
 ## 🛠 Technologies & Tools
 
 🚀 **Development & Automation**  
-- ☕ **Java**  
-- ✅ **Selenium**  
-- 🏗 **Jenkins**  
-- 🖥 **Git & GitHub**  
-- 🐍 **Python**  
+☕ **Java**  
+✅ **Selenium**  
+🏗 **Jenkins**  
+🖥 **Git, Gitlab, Bitbucket & GitHub**  
+🐍 **Python**  
 
 📦 **Databases & Cloud**  
-- 🗄 **MySQL & PostgreSQL**  
-- 🛠 **Docker & Kubernetes**  
+- 🗄 **MySQL, MariaDB & NoSQL**  
+- 🛠 **Docker**  
 
 📌 **Testing & DevOps**  
 - 🔍 **Jira & Xray**  
 - ⚙ **CI/CD Pipelines**  
 - 🍃 **Spring Boot**  
-- 🖥 **Linux (Ubuntu, Debian, etc.)**  
+- 🖥 **Linux (Ubuntu, Debian.)**  
 
 ---
 
-## 💡 Quote to Live By
+## 💡 My philosophy to life
 
 <p align="center">
     <em>"Excellence is a process, not an event."</em>
