@@ -47,12 +47,6 @@ I’m open to **freelance, consulting, and full-time opportunities** in:
 📫 **Contact me:**  
 📧 **Email:** [📩 roland@la-fed.org](mailto:roland@la-fed.org)  
 
-🌍 **Freelance Profiles:**  
-🟢 [**Upwork**](https://www.upwork.com/freelancers/~017651e3fba024b670?mp_source=share)  
-🔵 [**Malt**](https://www.malt.fr/profile/rolandguissony1)  
-🟠 [**PeoplePerHour**](https://www.peopleperhour.com/freelancer/roland-guissony-qa-automation-engineer-java-zyzwnamn)  
-🟩 [**HackerRank**](https://www.hackerrank.com/profile/rdb2f)  
-
 ---
 
 ## 🌎 Connect with Me
