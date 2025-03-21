@@ -34,7 +34,7 @@
 🔹 [**Test Automation Exercise**](https://github.com/iamrdb2f/TestAutomationExercise)  
 _A robust Selenium-Java automation framework for testing Automation Exercise._  
 
-🔹 [**Federation for Sustainable Entrepreneurship**](https://www.la-fed.org/)  
+🔹 [**Fédération pour l'Entrepreneuriat Durable**](https://www.la-fed.org/)  
 _A digital learning platform empowering professionals in QA and sustainable entrepreneurship._  
 
 ---
