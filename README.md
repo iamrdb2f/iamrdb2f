@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 On going Projects
 
 🔹 [**Test Automation Exercise**](https://github.com/iamrdb2f/TestAutomationExercise)  
 _A robust Selenium-Java automation framework for testing Automation Exercise._  
