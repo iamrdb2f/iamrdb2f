@@ -29,10 +29,10 @@
 
 ---
 
-## 🏆 On going Projects
+## 🏆 On Going Projects
 
 🔹 [**Test Automation Exercise**](https://github.com/iamrdb2f/TestAutomationExercise)  
-_A robust Selenium-Java automation framework for testing Automation Exercise._  
+_A robust Selenium-Java automation framework that implements test cases from Automation Exercise website._  
 
 🔹 [**Fédération pour l'Entrepreneuriat Durable**](https://www.la-fed.org/)  
 _A digital learning platform empowering professionals in QA and sustainable entrepreneurship._  
