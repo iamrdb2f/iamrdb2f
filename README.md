@@ -40,10 +40,9 @@
 
 ## 📚 Current focus areas
 
-🔧 Building a universal QA Automation Framework to support competencies development and industrials.  
-💼 Coaching QA Engineers & dev teams on **best testing practices** and **How to align so they become able join the "Test tribe"**.  
-🌱 Designing micro-learning content for digital upskilling and/or reskilling.
-
+> Building a universal QA Automation Framework to support competencies development and industrials.
+> Coaching QA Engineers & dev teams on **best testing practices** and **How to align so they become able join the "Test tribe"**.
+> Designing micro-learning content for digital upskilling and/or reskilling.
 ---
 
 ## 🤝 Work with me
