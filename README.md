@@ -10,14 +10,13 @@
   <em>Parce que vous en êtes capable !</em>
 </p>
 
----
-
 ## 👋🏾 Who am'I?
 
 > I’m a software quality specialist with a relentless drive to scale impact through test automation, DevOps engineering, and tech-driven entrepreneurship, espacially in the vocational training sector.
 > With experience leading cross-functional QA initiatives across corporate and communities ecosystems, I bridge the gap between software delivery and quality excellence.
 > Let's automate it, integrate, deploy and deliver faster!
 
+---
 
 🧠 **Architect of scalable test automation frameworks** using Java, Selenium, TestNG, and CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
 
