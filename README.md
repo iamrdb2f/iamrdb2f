@@ -23,20 +23,15 @@ I’m a software quality specialist with a relentless drive to scale impact thro
 
 ## 🛠 Tech stack
 
-**Languages & Frameworks:**  
-`Java` • `SpringBoot` • `Selenium` • `TestNG` • `Groovy` • `Python`
+**Languages & Frameworks:** `Java` • `SpringBoot` • `Selenium` • `TestNG` • `Groovy` • `Python`
 
-**Automation & DevOps:**  
-`CI/CD` • `Jenkins` • `GitHub Actions` • `GitLab CI` • `Docker` • `Linux`
+**Automation & DevOps:** `CI/CD` • `Jenkins` • `GitHub Actions` • `GitLab CI` • `Docker` • `Linux`
 
-**Tools & Collaboration:**  
-`Jira` • `Xray` • `Confluence` • `Bitbucket` • `Git`
+**Tools & Collaboration:** `Jira` • `Xray` • `Confluence` • `Bitbucket` • `Git`
 
-**Database & Cloud:**  
-`MySQL` • `MariaDB` • `SQL` • `Docker Hub`
+**Database & Cloud:** `MySQL` • `MariaDB` • `SQL` • `Docker Hub`
 
-**Methodologies:**  
-`Agile @Scale` • `Spotify Model` • `QA Strategy` • `TDD` • `Scrum`
+**Methodologies:** `Agile @Scale` • `Spotify Model` • `QA Strategy` • `TDD` • `Scrum`
 
 ---
 
@@ -50,12 +45,7 @@ I’m a software quality specialist with a relentless drive to scale impact thro
 
 ## 🤝 Work with me
 
-I'm open to:
-
-- Strategic QA consulting;  
-- Test Automation Engineering;  
-- Digital training projects;  
-- International collaboration (Remote/In site).
+**I'm open to:** `Strategic` • `QA consulting` • `Test Automation Engineering` • `Digital training projects` • `International collaboration (Remote/In site)` •.
 
 📫 Let's connect: [roland@la-fed.org](mailto:roland@la-fed.org)
 
