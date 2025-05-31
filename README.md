@@ -18,6 +18,7 @@
 > With experience leading cross-functional QA initiatives across corporate and communities ecosystems, I bridge the gap between software delivery and quality excellence.
 > Let's automate it, integrate, deploy and deliver faster!
 
+
 🧠 **Architect of scalable test automation frameworks** using Java, Selenium, TestNG, and CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
 🚀 **Founder & CEO of [La FED](https://www.la-fed.org/)** — a social organization empowering workers with tailored and high level skills in QA, digital in general.
 
