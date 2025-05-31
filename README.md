@@ -52,7 +52,4 @@
 📫 Let's connect: [roland@la-fed.org](mailto:roland@la-fed.org)
 
 ---
-
-## 🌐 Let's Connect: [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=flat-square)](https://github.com/iamrdb2f/)
-
 ---
