@@ -20,6 +20,7 @@
 
 
 🧠 **Architect of scalable test automation frameworks** using Java, Selenium, TestNG, and CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
+
 🚀 **Founder & CEO of [La FED](https://www.la-fed.org/)** — a social organization empowering workers with tailored and high level skills in QA, digital in general.
 
 ---
