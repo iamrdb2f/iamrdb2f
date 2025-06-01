@@ -52,22 +52,52 @@ Here are some of my official certifications in the fields of QA, automation, clo
 
 ### 🎓 Quality Assurance & Testing
 
-- [Test Automation with Xray](./certifications/certification-Test-Automation-with-Xray-iamrdb2f.pdf)
-- [Test Automation 101 – JUnit](./certifications/certification-Test-Automation-101_-Beginner's-Course-for-JUnit-iamrdb2f.pdf)
-- [ISTQB CTFL (2022)](./certifications/Certificate_92966_CTFL2018-FR_DESBAUFORD_06_10_2022.pdf)
+<p align="center">
+  <a href="./certifications/certification-Test-Automation-with-Xray-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Test-Automation-with-Xray-iamrdb2f-1.png" alt="Test Automation with Xray" width="250"/>
+  </a>
+  <a href="./certifications/certification-Test-Automation-101_-Beginner's-Course-for-JUnit-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Test-Automation-101_-Beginner's-Course-for-JUnit-iamrdb2f-1.png" alt="JUnit Course" width="250"/>
+  </a>
+  <a href="./certifications/Certificate_92966_CTFL2018-FR_DESBAUFORD_06_10_2022.pdf">
+    <img src="./certifications/previews/Certificate_92966_CTFL2018-FR_DESBAUFORD_06_10_2022-1.png" alt="ISTQB CTFL" width="250"/>
+  </a>
+</p>
+
+---
 
 ### ☁ Xray & Cloud
 
-- [Migration from Xray Server to Cloud](./certifications/certification-Migration-from-Xray-Server-to-Xray-Cloud-iamrdb2f.pdf)
-- [Xray for Cloud – Project Creation](./certifications/certification-Project-Creation-with-Xray-for-Cloud-iamrdb2f.pdf)
-- [Welcome to Xray Server](./certifications/certification-Welcome-to-Xray-for-Server_DC-iamrdb2f.pdf)
-- [Welcome to Xray Cloud](./certifications/certification-Welcome-to-Xray-for-Cloud-iamrdb2f.pdf)
-- [Welcome to Xray Enterprise](./certifications/certification-Welcome-to-Xray-Enterprise-iamrdb2f.pdf)
+<p align="center">
+  <a href="./certifications/certification-Migration-from-Xray-Server-to-Xray-Cloud-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Migration-from-Xray-Server-to-Xray-Cloud-iamrdb2f-1.png" alt="Migration to Xray Cloud" width="250"/>
+  </a>
+  <a href="./certifications/certification-Project-Creation-with-Xray-for-Cloud-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Project-Creation-with-Xray-for-Cloud-iamrdb2f-1.png" alt="Xray Project Creation" width="250"/>
+  </a>
+  <a href="./certifications/certification-Welcome-to-Xray-for-Server_DC-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Welcome-to-Xray-for-Server_DC-iamrdb2f-1.png" alt="Xray Server Welcome" width="250"/>
+  </a>
+  <a href="./certifications/certification-Welcome-to-Xray-for-Cloud-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Welcome-to-Xray-for-Cloud-iamrdb2f-1.png" alt="Xray Cloud Welcome" width="250"/>
+  </a>
+  <a href="./certifications/certification-Welcome-to-Xray-Enterprise-iamrdb2f.pdf">
+    <img src="./certifications/previews/certification-Welcome-to-Xray-Enterprise-iamrdb2f-1.png" alt="Xray Enterprise Welcome" width="250"/>
+  </a>
+</p>
 
-### 📈 Business & project foundations
+---
 
-- [Developing Business Acumen 2016](./certifications/CertificatDaccomplissement_Developing Business Acumen 2016.pdf)
-- [Project Management Foundations](./certifications/CertificatDaccomplissement_Project Management Foundations Risk.pdf)
+### 📈 Business & Project Foundations
+
+<p align="center">
+  <a href="./certifications/CertificatDaccomplissement_Developing Business Acumen 2016.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Developing Business Acumen 2016-1.png" alt="Business Acumen 2016" width="250"/>
+  </a>
+  <a href="./certifications/CertificatDaccomplissement_Project Management Foundations Risk.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Project Management Foundations Risk-1.png" alt="PM Foundations Risk" width="250"/>
+  </a>
+</p>
 
 ---
 
