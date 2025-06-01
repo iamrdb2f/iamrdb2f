@@ -48,7 +48,7 @@
 
 ## 📜 My certifications
 
-Here are some of my official certifications in the fields of QA, automation, cloud, and business project management:
+Here are some of (not all, of course...) my official certifications in the fields of QA, automation, cloud, and business project management:
 
 ### 🎓 Quality Assurance & Testing
 
@@ -101,9 +101,6 @@ Here are some of my official certifications in the fields of QA, automation, clo
 
 ---
 
-> 📂 **See full list in the** [`certifications/`](./certifications) **folder**
-
----
 ## 🤝 Work with me
 
 **I'm open to:** `Strategic` • `QA consulting` • `Test Automation Engineering` • `Digital training projects` • `International collaboration (Remote/In site)` • `Let's connect:` [roland@la-fed.org](mailto:roland@la-fed.org)
