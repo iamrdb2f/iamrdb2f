@@ -6,13 +6,13 @@
 <h1 align="center">Hello, My name is Roland</h1>
 
 <p align="center">
-  <strong>I am enthousiastic about QA Automation Automation, Tech Entrepreneurship & Vocational Education.<br/>
-  <em>Parce que vous en êtes capable !</em>
+  <strong>I am enthousiastic about QA Automation Engineeering, Tech Entrepreneurship & Vocational Education.<br/>
+  <em>Parce que vous en êtes capable.</em>
 </p>
 
 ## 👋🏾 Who am'I?
 
-> I’m a software quality specialist with a relentless drive to scale impact through test automation, DevOps engineering, and tech-driven entrepreneurship, espacially in the vocational training sector.
+> I’m a software quality specialist and a software engineer, with a relentless drive to scale impact through test automation, DevOps engineering, and tech-driven entrepreneurship, espacially in the vocational training sphere.
 > With experience leading cross-functional QA initiatives across corporate and communities ecosystems, I bridge the gap between software delivery and quality excellence.
 > Let's automate it, integrate, deploy and deliver faster!
 
@@ -41,14 +41,14 @@
 ## 📚 Current focus areas
 
 > Building a universal QA Automation Framework to support competencies development and industrials.
-> Coaching QA Engineers & dev teams on **best testing practices** and **How to align so they become able join the "Test tribe"**.
-> Designing micro-learning content for digital upskilling and/or reskilling.
+> Coaching QA Engineers & dev teams on **best practices in testing** and **How to align so they become able join the "Test tribe"**.
+> Designing micro-learning content for digital upskilling and reskilling.
 
 ---
 
 ## 📜 My certifications
 
-Here are some of (not all, of course...) my official certifications in the fields of QA, automation, cloud, and business project management:
+Here are some of (not all, of course...) my official certifications in the fields of QA, automation, cloud, and project management:
 
 ### 🎓 Quality Assurance & Testing
 
