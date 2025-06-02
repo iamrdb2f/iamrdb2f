@@ -103,6 +103,6 @@ Here are some of (not all, of course...) my official certifications in the field
 
 ## 🤝 Work with me
 
-**I'm open to:** `Strategic` • `QA consulting` • `Test Automation Engineering` • `Digital training projects` • `International collaboration (Remote/In site)` • `Let's connect:` [roland@la-fed.org](mailto:roland@la-fed.org)
+**I'm open to:** `Strategic` • `QA consulting` • `Test Automation Engineering` • `Digital training projects` • `International collaboration (Remote/In site)` • Let's connect: `[roland@la-fed.org]`(mailto:roland@la-fed.org)
 
 ---
