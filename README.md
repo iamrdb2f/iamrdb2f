@@ -1,56 +1,53 @@
 <!-- Banner / Cover Image -->
 <p align="center">
-  <img src="./la-fed.org-couverture-facebook.png" alt="La FED Cover Banner" width="100%" />
+  <img src="./la-fed.org-couverture-github.png" alt="Roland Desbauford - Founding Manager at la FEd en QA engineer" width="100%" />
 </p>
 
-<h1 align="center">Hello, My name is Roland</h1>
+<h1 align="center">Hello and welcome to my GitHub page!<br/>I am Roland.</h1>
 
 <p align="center">
-  <strong>I am enthousiastic about QA Automation Engineeering, Tech Entrepreneurship & Vocational Education.<br/>
-  <em>Parce que vous en êtes capable.</em>
+  <strong>I am enthousiastic about and professionally committed to Software Quality Assurance and Testing Automation Engineering, Tech entrepreneurship & Vocational education.<br/><br/>
+  <em>Education mantra: Parce que vous en êtes capable.</em>
+  </strong>
 </p>
 
-## 👋🏾 Who am'I?
+## 🧠 What am'I good at?
 
-> I’m a software quality specialist and a software engineer, with a relentless drive to scale impact through test automation, DevOps engineering, and tech-driven entrepreneurship, espacially in the vocational training sphere.
-> With experience leading cross-functional QA initiatives across corporate and communities ecosystems, I bridge the gap between software delivery and quality excellence.
-> Let's automate it, integrate, deploy and deliver faster!
+I am a software quality assurance specialist and a software engineer, with a relentless drive to business impact through testing automation, DevOps, and an entrepreneurial mindset, espacially in the vocational training sphere. 
 
----
+With experience leading cross-functional QA initiatives across corporate and communities ecosystems, I bridge the gap between software quality, upskilling and reskilling people trough my QA, Programming, and Automation Engineering expertise. What your company and I are able to work on during the next months or years?
 
-🧠 **Architect of scalable test automation frameworks** using Java, Selenium, TestNG, and CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
+- **Architect and develop scalable test automation frameworks** using Java, Selenium, Appium, TestNG, and CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
 
-🚀 **Founder & CEO of [La FED](https://www.la-fed.org/)** — a social organization empowering workers with tailored and high level skills in QA and in the sphere of digital, in general.
+- **Build and invest on vocational training inside [la Fédération pour l'Entrepreneuriat Durable](https://www.la-fed.org/)** - a social organization on which I am managing foundational actions, empowering workers with tailored and high level programing skills onto and for SQA, specifically.
 
----
+## 🛠 Here come my skills and technical stack
 
-## 🛠 Tech stack
+- **Languages & Frameworks:** `Java` • `Spring` • `Selenium` • `Appium` • `TestNG` • `Groovy` • `Python`
 
-**Languages & Frameworks:** `Java` • `SpringBoot` • `Selenium` • `TestNG` • `Groovy` • `Python`
+- **Automation & DevOps:** `Maven` •`CI/CD` • `Jenkins` • `GitHub Actions` • `GitLab CI` • `Docker` • `Linux`
 
-**Automation & DevOps:** `CI/CD` • `Jenkins` • `GitHub Actions` • `GitLab CI` • `Docker` • `Linux`
+- **Tools & Collaboration:** `Jira` • `Xray` • `Confluence` • `Bitbucket` • `GitHub` •`Git`
 
-**Tools & Collaboration:** `Jira` • `Xray` • `Confluence` • `Bitbucket` • `Git`
+- **Database & Cloud:** `MySQL` • `MariaDB` • `SQL` • `Docker`
 
-**Database & Cloud:** `MySQL` • `MariaDB` • `SQL` • `Docker Hub`
+- **Methodologies & Processes:** `Agile@Scale` • `Spotify Model` • `QA Strategy` • `BDD` •`TDD` • `Scrum`
 
-**Methodologies:** `Agile @Scale` • `Spotify Model` • `QA Strategy` • `TDD` • `Scrum`
+## 📚 My current education and engineering focus areas
 
----
+1.  Building a universal QA Automation Framework to support competencies development and and Quality Assurance as a standalone professional industry.
 
-## 📚 Current focus areas
 
-> Building a universal QA Automation Framework to support competencies development and industrials.
-> Coaching QA Engineers & dev teams on **best practices in testing** and **How to align so they become able join the "Test tribe"**.
-> Designing micro-learning content for digital upskilling and reskilling.
+2. Coaching QA Engineers & "developer teams" on **best practices in testing** and **how to align so they become professionally able to join the "test tribe"**.
 
----
 
-## 📜 My certifications
+3. **Designing micro-learning contents for upskilling and reskilling pursposes.**
 
-Here are some of (not all, of course...) my official certifications in the fields of QA, automation, cloud, and project management:
+## 📜 Here are some of my certifications
 
-### 🎓 Quality Assurance & Testing
+Here are some of (not all, and not the best ones, of course...) my official certifications in the fields of Software Quality Assurance, Automation, Cloud, and Project Management:
+
+### 🎓 On Software Quality Assurance & Testing Automation Engineering.
 
 <p align="center">
   <a href="./certifications/certification-Test-Automation-with-Xray-iamrdb2f.pdf">
@@ -64,9 +61,7 @@ Here are some of (not all, of course...) my official certifications in the field
   </a>
 </p>
 
----
-
-### ☁ Xray & Cloud
+### ☁ On Xray tooling, Cloud and Collaboration
 
 <p align="center">
   <a href="./certifications/certification-Migration-from-Xray-Server-to-Xray-Cloud-iamrdb2f.pdf">
@@ -86,25 +81,42 @@ Here are some of (not all, of course...) my official certifications in the field
   </a>
 </p>
 
----
-
-### 📈 Business & Project Foundations
+### 📈 On Business, Entrepreneurship & Project Foundations
 
 <p align="center">
   <a href="./certifications/CertificatDaccomplissement_Developing Business Acumen 2016.pdf">
     <img src="./certifications/previews/CertificatDaccomplissement_Developing Business Acumen 2016-1.png" alt="Business Acumen 2016" width="250"/>
   </a>
+<a href="./certifications/CertificatDaccomplissement_Developing Business Acumen 2016 (1).pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Developing Business Acumen 2016 (1)-1.png" alt="Business Acumen 2016" width="250"/>
+  </a>
+  <a href="./certifications/CertificatDaccomplissement_Developing Business Acumen 2016 (2).pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Developing Business Acumen 2016 (2)-1.png" alt="Business Acumen 2016" width="250"/>
+  </a>
   <a href="./certifications/CertificatDaccomplissement_Project Management Foundations Risk.pdf">
     <img src="./certifications/previews/CertificatDaccomplissement_Project Management Foundations Risk-1.png" alt="PM Foundations Risk" width="250"/>
   </a>
+    <a href="./certifications/CertificatDaccomplissement_Project Management Foundations Risk (1)pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Project Management Foundations Risk (1)-1.png" alt="PM Foundations Risk" width="250"/>
+  </a>
+    <a href="./certifications/CertificatDaccomplissement_Project Management Foundations Risk (2).pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Project Management Foundations Risk (2)-1.png" alt="PM Foundations Risk" width="250"/>
+  </a>
+
 </p>
 
----
+## 🤝 Do you want us to work together?
 
-## 🤝 Want us to work together?
+**I'm open to:** 
 
-**I'm open to:** `Strategic` • `QA consulting` • `Test Automation Engineering` • `Digital training projects` • `International collaboration (Remote/In site)`
+- `Strategics on software testing and vocational training consulting`
 
-Let's connect: [roland@la-fed.org](mailto:roland@la-fed.org)
+- `QA Consulting and Engineering Positions`
 
----
+- `Test Automation Engineering missions ` 
+
+- `Digital and or on-site training projects` 
+
+- `Local collaboration (Remote and/or On-site missions)`
+
+Let's connect, please feel free to email me at: [roland@la-fed.org](mailto:roland@la-fed.org). You can also WhatsApp me [here](https://wa.me/message/JEBVD3SN7G32O1).
