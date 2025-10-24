@@ -120,3 +120,5 @@ Here are some of (not all, and not the best ones, of course...) my official cert
 - `Local collaboration (Remote and/or On-site missions)`
 
 Let's connect, please feel free to email me at: [roland@la-fed.org](mailto:roland@la-fed.org). You can also WhatsApp me [here](https://wa.me/message/JEBVD3SN7G32O1).
+
+## In other hand, you can as well support my opensource and free work on automated testing [here](https://github.com/sponsors/iamrdb2f).
