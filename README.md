@@ -47,6 +47,20 @@ With experience leading cross-functional QA initiatives across corporate and com
 
 Here are some of (not all, and not the best ones, of course...) my official certifications in the fields of Software Quality Assurance, Automation, Cloud, and Project Management:
 
+### 🎓 On Java Programming Language  & Sotfware Engineering.
+
+<p align="center">
+  <a href="./certifications/CertificatDaccomplissement_Java ObjectOriented Programming.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Java ObjectOriented Programming.png" alt="Test Automation with Xray" width="250"/>
+  </a>
+    <a href="./certifications/CertificatDaccomplissement_Advanced Design Patterns Design Principles.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Advanced Design Patterns Design Principles.png" alt="Test Automation with Xray" width="250"/>
+  </a>
+    <a href="./certifications/CertificateOfCompletion_Java Design Patterns Creational.pdf">
+    <img src="./certifications/previews/CertificateOfCompletion_Java Design Patterns Creational.png" alt="Test Automation with Xray" width="250"/>
+  </a>
+</p>
+
 ### 🎓 On Software Quality Assurance & Testing Automation Engineering.
 
 <p align="center">
@@ -82,8 +96,16 @@ Here are some of (not all, and not the best ones, of course...) my official cert
 </p>
 
 ### 📈 On Business, Entrepreneurship & Project Foundations
-
 <p align="center">
+  <a href="./certifications/CertificatDaccomplissement_Systems Thinking.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Systems Thinking.png" alt="Systems Thinking" width="250"/>
+  </a>
+  <a href="./certifications/CertificatDaccomplissement_Consulting Foundations Client Management and Relationships.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Consulting Foundations Client Management and Relationships.png" alt="Client Management and Relationships" width="250"/>
+  </a>
+  <a href="./certifications/CertificatDaccomplissement_Consulting Foundations Client Management and Relationships (1).pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Consulting Foundations Client Management and Relationships (1).png" alt="Client Management and Relationships" width="250"/>
+  </a>
   <a href="./certifications/CertificatDaccomplissement_Developing Business Acumen 2016.pdf">
     <img src="./certifications/previews/CertificatDaccomplissement_Developing Business Acumen 2016-1.png" alt="Business Acumen 2016" width="250"/>
   </a>
