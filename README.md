@@ -51,13 +51,18 @@ Here are some of (not all, and not the best ones, of course...) my official cert
 
 <p align="center">
   <a href="./certifications/CertificatDaccomplissement_Java ObjectOriented Programming.pdf">
-    <img src="./certifications/previews/CertificatDaccomplissement_Java ObjectOriented Programming.png" alt="Test Automation with Xray" width="250"/>
+    <img src="./certifications/previews/CertificatDaccomplissement_Java ObjectOriented Programming.png" alt="Java Object-Oriented Programming" width="250"/>
   </a>
     <a href="./certifications/CertificatDaccomplissement_Advanced Design Patterns Design Principles.pdf">
-    <img src="./certifications/previews/CertificatDaccomplissement_Advanced Design Patterns Design Principles.png" alt="Test Automation with Xray" width="250"/>
+    <img src="./certifications/previews/CertificatDaccomplissement_Advanced Design Patterns Design Principles.png" alt="Advanced Design Patterns: Design
+Principles" width="250"/>
   </a>
+    </a>
     <a href="./certifications/CertificateOfCompletion_Java Design Patterns Creational.pdf">
-    <img src="./certifications/previews/CertificateOfCompletion_Java Design Patterns Creational.png" alt="Test Automation with Xray" width="250"/>
+    <img src="./certifications/previews/CertificateOfCompletion_Java Design Patterns Creational.png" alt="Java Design Patterns: Creational" width="250"/>
+  </a>
+    <a href="./certifications/CertificatDaccomplissement_Java Design Patterns Structural.pdf">
+    <img src="./certifications/previews/CertificatDaccomplissement_Java Design Patterns Structural.png" alt="Java Design Patterns: Structural" width="250"/>
   </a>
 </p>
 
