@@ -1,38 +1,21 @@
-<!-- Banner / Cover Image -->
 <h1 align="center">Hello and welcome!<br/>I am Roland.</h1>
+<p align="center"><strong>I am a Software Quality Assurance and Test Automation Engineer.</strong></p>
 
-<p align="center">
-  <strong>I am enthousiastic about and professionally committed to Software Quality Assurance and Testing Automation Engineering, Tech entrepreneurship & Vocational education.<br/><br/>
-  <em>Education mantra: Parce que vous en êtes capable.</em>
-  </strong>
-</p>
+## From test strategy to defensible quality evidence
 
-## 🧠 What am'I good at?
+I approach software quality as an end-to-end engineering discipline. This means working from requirements and risk analysis through test strategy, coverage design, implementation, execution, defect investigation, traceability, reporting, and test closure. I focus on making quality decisions explicit and their outcomes verifiable. Within a team, I act as a **quality gatekeeper**: surfacing defects early, challenging risks, and supporting release decisions with reliable test evidence.
 
-I am a software quality assurance specialist and a software engineer, with a relentless drive to business impact through testing automation, DevOps, and an entrepreneurial mindset, espacially in the vocational training sphere. 
+My experience includes software testing in the **banking domain**, alongside a technical focus on **Java-based test automation**. I work with **Selenium WebDriver** for UI testing, **REST Assured** for API verification, and **TestNG** to structure automated execution.
 
-With experience leading cross-functional QA initiatives across corporate and communities ecosystems, I bridge the gap between software quality, upskilling and reskilling people trough my QA, Programming, and Automation Engineering expertise. 
+This leads to a consistent engineering objective: **maintainable tests, meaningful assertions, reliable feedback, and evidence that other engineers can reproduce**.
 
-What your company and I are able to work on during the next months or years?
+## Current engineering priorities
 
-- **Architect and develop scalable test automation frameworks** using Java, Selenium, Appium, TestNG, and CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
+- **UI automation:** robust browser tests, reusable abstractions, test data, and relevant assertions.
+- **API and integration testing:** positive and negative scenarios, response validation, and cross-layer coverage.
+- **CI/CD quality feedback:** repeatable execution, pipeline integration, interpretable reports, and failure diagnosis.
+- **Test process management:** risk-based prioritisation, traceability, defect management, and completion criteria.
 
-- **Build and invest on vocational training inside [la Fédération pour l'Entrepreneuriat Durable](https://www.la-fed.org/)** - a social organization on which I am managing foundational actions, empowering workers with tailored and high level programing skills onto and for SQA, specifically.
+Beyond delivery, I extend these methods into **vocational education**, helping others build not just tool proficiency, but sound testing judgment and lasting technical independence.
 
-## 🤝 Do you want us to work together?
-
-**I'm open to:** 
-
-- `Strategics on software testing and vocational training consulting`
-
-- `QA Engineering Positions`
-
-- `Test Automation Engineering missions ` 
-
-- `Digital and or on-site training projects` 
-
-- `Local collaboration (Remote and/or On-site missions)`
-
-Let's connect, please feel free to email me.
-
-## In other hand, you can as well support my opensource and free work on automated testing [here](https://github.com/sponsors/iamrdb2f).
+*Parce que vous en êtes capable.*
